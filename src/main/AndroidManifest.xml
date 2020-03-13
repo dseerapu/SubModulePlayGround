@@ -1,2 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.app.submodule" />
+    package="com.app.submodule">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+</manifest>
